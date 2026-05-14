@@ -1,0 +1,30 @@
+[
+  {
+    "id": "001",
+    "username": "admin",
+    "password": "0e7517141fb53f21ee439b355b5a1d0a",
+    "role": "admin,user",
+    "created_at": "2024-04-10 10:30"
+  },
+  {
+    "id": "002",
+    "username": "user_1",
+    "password": "448ddd517d3abb70045aea6929f02367",
+    "role": "user",
+    "created_at": "2024-04-09 13:00"
+  },
+  {
+    "id": "003",
+    "username": "user_2",
+    "password": "448ddd517d3abb70045aea6929f02367",
+    "role": "user",
+    "created_at": "2024-04-09 13:00"
+  },
+  {
+    "id": "004",
+    "username": "user_3",
+    "password": "448ddd517d3abb70045aea6929f02367",
+    "role": "user",
+    "created_at": "2024-04-09 13:00"
+  }
+]
